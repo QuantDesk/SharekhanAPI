@@ -1,3 +1,5 @@
+# forked repo for internal use 
+
 # from sharekhan import sharekhanConnect
 
 from sharekhanConnect import SharekhanConnect
